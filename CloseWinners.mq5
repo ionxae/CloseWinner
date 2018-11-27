@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                                 CloseWinners.mq5 |
-//|                                           Copyright 2018,Ionxae. |
-//|                                             https://www.mql5.com |
+//|                                   Copyright 2018,Neuralrobotica. |
+//|                                       https://neuralrobotica.com |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2018,Ionxae."
 #property link      "https://www.mql5.com"
